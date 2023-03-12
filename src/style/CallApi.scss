@@ -1,0 +1,15 @@
+.apiContainer {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 90vw;
+    height: 100vh;
+
+    button {
+        font-size: 5ch;
+        margin: 7px 0 30px 0;
+        font-weight: 700;
+        background: none;
+        border: none;
+    }
+}
