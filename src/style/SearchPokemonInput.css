@@ -9,12 +9,18 @@
   width: 100vw;
   height: 100vh;
 }
+* .searchPokemonContainer .buttonContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
 * .searchPokemonContainer .buttonContainer button {
-  width: 100vw;
-  height: 100vh;
   font-size: 7ch;
   font-weight: 700;
   background: none;
   border-radius: 10px;
   border: none;
+}
+* .searchPokemonContainer .buttonContainer button:hover {
+  cursor: pointer;
 }/*# sourceMappingURL=SearchPokemonInput.css.map */

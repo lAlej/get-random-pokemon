@@ -11,4 +11,7 @@
   font-weight: 700;
   background: none;
   border: none;
+}
+.apiContainer button:hover {
+  cursor: pointer;
 }/*# sourceMappingURL=CallApi.css.map */
